@@ -1,2 +1,2 @@
-# split_shipping_subscriptions
+# split shipping subscriptions
 Woocommerce subscription split shipping code
